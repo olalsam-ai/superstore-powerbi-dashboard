@@ -28,5 +28,4 @@ The dataset is the Superstore retail sales data, covering orders from 2014 to 20
 Power BI, DAX, Data modelling
 
 
-Samuel Onyango Olal, BSc Statistics (Egerton University), Nairobi, Kenya.
-[Add your LinkedIn link.] | samuelonyangoolal@gmail.com
+Samuel Onyango Olal, BSc Statistics (Egerton University), Nairobi, Kenya. samuelonyangoolal@gmail.com
